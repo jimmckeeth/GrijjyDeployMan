@@ -32,3 +32,5 @@ HtmlHelp/
 Html/
 #ignore DUnitX output
 dunitx-results.xml
+*.res
+*.delphilsp.json
